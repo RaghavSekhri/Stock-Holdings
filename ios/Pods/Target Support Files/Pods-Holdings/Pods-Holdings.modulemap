@@ -1,0 +1,6 @@
+module Pods_Holdings {
+  umbrella header "Pods-Holdings-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_Holdings_HoldingsTests {
+  umbrella header "Pods-Holdings-HoldingsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
